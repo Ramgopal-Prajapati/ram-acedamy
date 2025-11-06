@@ -35,3 +35,16 @@ A full-stack MERN application for managing academy operations with admin and stu
 ```bash
 git clone <repository-url>
 cd ramsir-academy-portal
+
+
+
+
+cd fronted ---
+npm install
+npm run dev
+
+
+cd backend ---
+npm install
+npm run seed(for sample admin and sample user)
+npm run dev
